@@ -180,10 +180,13 @@ High scores persist between game sessions.
 
 ## 📸 Screenshots:
 
-![Gameplay](screenshots/gameplay.png)
+<p align="center">
+  <img src="polished_snake_game/screenshots/gameplay.png" width="900">
+</p>
 
-
-![Gameover](screenshots/gameover.png)
+<p align="center">
+  <img src="polished_snake_game/screenshots/gameover.png" width="900">
+</p>
 
 ---
 
