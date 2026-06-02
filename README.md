@@ -180,13 +180,11 @@ High scores persist between game sessions.
 
 ## 📸 Screenshots:
 
-
-```md
 ![Gameplay](screenshots/gameplay.png)
-```
-```md
+
+
 ![Gameover](screenshots/gameover.png)
-```
+
 ---
 
 ## 🔮 Future Enhancements
